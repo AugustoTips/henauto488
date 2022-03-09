@@ -1,2 +1,2 @@
 # henauto488
-HEN Auto Installer 4.88
+Auto HEN Installer HFW 4.88
